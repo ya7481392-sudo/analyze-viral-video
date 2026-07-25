@@ -1,0 +1,4 @@
+interface:
+  display_name: "视频爆款解析"
+  short_description: "用爆款场景、产品和爆款角度独立判断短视频内容是否值得复制"
+  default_prompt: "使用 $analyze-viral-video 独立拆解这条视频，判断能不能抄并给出复刻方案。"
